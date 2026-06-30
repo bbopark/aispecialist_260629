@@ -1,2 +1,6 @@
 강의 자료 https://heury.github.io/llm_lecture2/#/58
 실습 자료 원본 https://github.com/heury/llm_hands_on.git
+
+(base) C:\Windows\System32>conda activate env_aias_test
+
+(env_aias_test) C:\Windows\System32>cd ../../
