@@ -1,11 +1,13 @@
+[NN]
 강의 자료 https://heury.github.io/llm_lecture2/#/58
 실습 자료 원본 https://github.com/heury/llm_hands_on.git
-CNN http://10.243.176.207:3030/
 
+[Vision]
+http://10.243.176.207:3030/
 (base) C:\Windows\System32>conda activate env_aias_test
 
-(env_aias_test) C:\Windows\System32>cd ../../
-
+[On device]
+https://bit.ly/4fQXk3f
 2주차 월요일
 성균관대 신동군 교수님
 교수님 문제에서는 2~3문제 나옴
